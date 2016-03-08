@@ -5,7 +5,7 @@ Let me know if you know other awesome sources!
 
 ## Podcasts
 
-- [Android Developers Backstage](http://www.fragmentedpodcast.com/) - hosted by developers from Android engineering team.
+- [Android Developers Backstage](http://androidbackstage.blogspot.jp/) - hosted by developers from Android engineering team.
 
 - [Fragmented](http://www.fragmentedpodcast.com/) - hosted by Donn Felker and Kaushik Gopal.
 
