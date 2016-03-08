@@ -39,7 +39,7 @@ Let me know if you know other awesome sources!
 
 - [Chris Banes](http://chris.banes.me/)
 
-- [Daniele Altomare](http://www.fasteque.com)
+- [Daniele Altomare - Android bits](http://www.fasteque.com)
 
 - [Dan Lew Codes](http://blog.danlew.net/)
 
