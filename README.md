@@ -37,6 +37,8 @@ Let me know if you know other awesome sources!
 
 - [Antonio Leiva](http://antonioleiva.com)
 
+- [Advanced RxJava](http://akarnokd.blogspot.jp/) - Dávid Karnok
+
 - [Chris Banes](http://chris.banes.me/)
 
 - [Daniele Altomare - Android bits](http://www.fasteque.com)
