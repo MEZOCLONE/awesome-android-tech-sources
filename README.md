@@ -25,6 +25,8 @@ Let me know if you know other awesome sources!
 
 - [Material Design](http://www.materialdoc.com/) - Material design tips
 
+- [Realm](https://realm.io/news/)
+
 - [The Corner](http://corner.squareup.com) - Square!
 
 - [The Labs | Novoda](https://www.novoda.com/blog/)
