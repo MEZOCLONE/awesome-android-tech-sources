@@ -21,6 +21,8 @@ Let me know if you know other awesome sources!
 
 - [Android Arsenal](http://android-arsenal.com/) - List of Android tools, libraries and apps
 
+- [The CommonsBlog](https://commonsware.com/blog/) - CommonsWare
+
 - [Kotlin Blog](http://blog.jetbrains.com/kotlin)
 
 - [Material Design](http://www.materialdoc.com/) - Material design tips
